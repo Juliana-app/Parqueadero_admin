@@ -71,3 +71,9 @@
     </div>
 </div>
 @endsection
+
+<style>
+    .col-form-label {
+        color: white;
+    }
+</style>
